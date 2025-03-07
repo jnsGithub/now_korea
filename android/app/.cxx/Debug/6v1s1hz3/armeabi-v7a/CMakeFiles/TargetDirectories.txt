@@ -1,0 +1,2 @@
+/Users/project/jnswork/9/welcom_to_korea/android/app/.cxx/Debug/6v1s1hz3/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/project/jnswork/9/welcom_to_korea/android/app/.cxx/Debug/6v1s1hz3/armeabi-v7a/CMakeFiles/rebuild_cache.dir

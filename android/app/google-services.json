@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687385395164",
+    "project_id": "nowkorea-7712f",
+    "storage_bucket": "nowkorea-7712f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687385395164:android:bc77081a7a575b07a41919",
+        "android_client_info": {
+          "package_name": "com.sosatang.now_korea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7uPniRVmQYmRMxuIQr6cCzSO_5gw_pTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
